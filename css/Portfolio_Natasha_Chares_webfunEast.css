@@ -1,0 +1,398 @@
+/* * {
+    border: 1px solid teal;
+} */
+
+#wrapper {
+    /* background-image: url('Portfolio_Images/portfolio_assignment.png'); */
+    background: linear-gradient(to right, rgb(250, 117, 117), rgb(247, 203, 122), rgb(247, 247, 123), rgb(11, 247, 207), violet, #ffcfcd, #7fff00);
+    width: 970px;
+    height: 1030px;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+
+#header {
+    background-color: cornsilk;
+    width: 970px;
+    height: 64px;
+}
+
+#header h1 {
+    display: inline-block;
+    vertical-align: top;
+    font-family: "Comic Sans Serif", cursive, sans-serif;
+    font-style: italic;
+    line-height: 25px;
+    text-indent: 22.68px;
+    color: rosybrown;
+}
+
+#header h2 {
+    display: inline-block;
+    vertical-align: top;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    line-height: 25px;
+    margin-left: 285px;
+}
+
+#main_content_top {
+    width: 970px;
+    height: 292px;
+}
+
+#main_content_top img {
+    width: 401px;
+    height: 263px;
+    display: inline-block;
+    vertical-align: top;
+    border: 5px solid blanchedalmond;
+    margin-top: 20px;
+    margin-left: 24px;
+}
+
+#about {
+    width: 484px;
+    height: 273px;
+    display: inline-block;
+    vertical-align: top;
+    background: linear-gradient(to right, honeydew, chartreuse);
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#about h2 {
+    width: 468px;
+    height: 27px;
+    font-size: 14pt;
+    font-weight: bold;
+    font-family: Arial;
+    background-color: rgba(255, 20, 147, .9);
+    color: blanchedalmond;
+    vertical-align: top;
+    margin-top: auto;
+    padding: 9px 5px 8px 11px;
+}
+
+.about_text_p1 p {
+    margin: -7px 10px 25px 11px;
+    color: deeppink;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.about_text_p2 p {
+    margin: -6px 10px 9px 11px;
+    color: deeppink;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.about_text_a a {
+    margin: -6px 10px 0px 12px;
+    color: deeppink;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+#main_content_projects {
+    background-color: transparent;
+    width: 970px;
+    height: 605px;
+}
+
+#project_1 {
+    width: 289px;
+    height: 550px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 26.6833px;
+    margin-left: 26px;
+    background: linear-gradient(to right, honeydew, chartreuse);
+}
+
+#project_1_la_mode h2 {
+    width: 274px;
+    height: 26px;
+    font-size: 14pt;
+    font-weight: bold;
+    background-color: rgba(255, 20, 147, .9);
+    color: blanchedalmond;
+    vertical-align: top;
+    margin: -1px 0px 0px -1px;
+    padding: 10px 7px 6px 10px;
+    font-family: Arial;
+}
+
+#project_1_la_mode img {
+    width: 289px;
+    height: 150px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#la_mode_text p {
+    margin: 0px 0px 0px 0px;
+    padding: 10px 8px 54px 10px;
+    color: deeppink;
+    font-family: Arial;
+    font-size: 11pt;
+    text-align: justify;
+    line-height: 12pt;
+}
+
+#project_1_la_mode_technologies h2 {
+    width: 280px;
+    height: 18px;
+    font-size: 12pt;
+    font-weight: bold;
+    background-color: rgba(255, 20, 147, .9);
+    color: blanchedalmond;
+    vertical-align: top;
+    margin: auto 0px auto -1px;
+    padding: 9px 0px 10px 10px;
+    font-family: Arial;
+}
+
+#icons {
+    padding: 0px;
+    font-size: 0px;
+    /* / */
+}
+
+#project_1_la_mode_technologies img {
+    padding: 10px 0px 0px 12px;
+    width: 42px;
+    height: 42px;
+    display: inline-block;
+    vertical-align: top;
+    /* white-space: pre-line; */
+}
+
+.project_button {
+    padding: 5px;
+    background-color: rgba(64, 125, 97);
+    border: 1px solid #193e2d;
+    box-shadow: 3px 3px 3px #8e8e8e;
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+    font-family: Arial;
+    font-weight: 700;
+    font-size: 10pt;
+    margin-top: 11px;
+    margin-left: 109px;
+    display: inline-block;
+}
+
+#project_2 {
+    width: 289px;
+    height: 550px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 26.6833px;
+    margin-left: 21px;
+    background: linear-gradient(to right, honeydew, chartreuse);
+}
+
+#project_2_family_contacts h2 {
+    width: 274px;
+    height: 26px;
+    font-size: 14pt;
+    font-weight: bold;
+    background-color: rgba(255, 20, 147, .9);
+    color: blanchedalmond;
+    vertical-align: top;
+    margin: -1px 0px 0px -1px;
+    padding: 10px 7px 6px 10px;
+    font-family: Arial;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#project_2_family_contacts img {
+    width: 289px;
+    height: 150px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.family_contacts_text p {
+    margin: 0px 0px 0px 0px;
+    padding: 11px 10px 38px 10px;
+    color: deeppink;
+    font-family: Arial;
+    font-size: 11pt;
+    text-align: justify;
+    line-height: 12pt;
+}
+
+#project_2_family_contacts_technologies h2 {
+    width: 280px;
+    height: 18px;
+    font-size: 12pt;
+    font-weight: bold;
+    background-color: rgba(255, 20, 147, .9);
+    color: blanchedalmond;
+    vertical-align: top;
+    margin: auto 0px auto -1px;
+    padding: 10px 0px 10px 10px;
+    font-family: Arial;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#icons_projects2 {
+    padding: 0px;
+    font-size: 0px;
+}
+
+#project_2_family_contacts_technologies img {
+    padding: 10px 0px 0px 12px;
+    width: 42px;
+    height: 42px;
+    display: inline-block;
+    vertical-align: top;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.project_button_family_contacts {
+    padding: 5px;
+    background-color: rgba(64, 125, 97);
+    border: 1px solid #193e2d;
+    box-shadow: 3px 3px 3px #8e8e8e;
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+    font-family: Arial;
+    font-weight: 700;
+    font-size: 10pt;
+    margin-top: 9px;
+    margin-left: 87px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#project_3 {
+    width: 289px;
+    height: 550px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 26.6833px;
+    margin-left: 21px;
+    background: linear-gradient(to right, honeydew, chartreuse);
+}
+
+#project_3_five_eleven h2 {
+    width: 274px;
+    height: 26px;
+    font-size: 14pt;
+    font-weight: bold;
+    background-color: rgba(255, 20, 147, .9);
+    color: blanchedalmond;
+    vertical-align: top;
+    margin: -1px 0px 0px -1px;
+    padding: 10px 7px 6px 10px;
+    font-family: Arial;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#project_3_five_eleven img {
+    width: 289px;
+    height: 150px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.five_eleven_text p {
+    margin: 0px 0px 0px 0px;
+    padding: 11px 10px 38px 10px;
+    color: deeppink;
+    font-family: Arial;
+    font-size: 10.5pt;
+    text-align: justify;
+    line-height: 12pt;
+}
+
+#project_3_five_eleven_technologies h2 {
+    width: 280px;
+    height: 18px;
+    font-size: 12pt;
+    font-weight: bold;
+    background-color: rgba(255, 20, 147, .9);
+    color: blanchedalmond;
+    vertical-align: top;
+    margin: auto 0px auto -1px;
+    padding: 9px 0px 10px 10px;
+    font-family: Arial;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#project_3_five_eleven_technologies {
+    position: absolute;
+    top: 742px;
+}
+
+#icons_project3 {
+    padding: 0px;
+    font-size: 0px;
+    margin-right: 182px;
+}
+
+#project_3_five_eleven_technologies img {
+    padding: 10px 0px 0px 12px;
+    width: 42px;
+    height: 42px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.project_button_five_eleven {
+    padding: 5px;
+    background-color: rgba(64, 125, 97);
+    border: 1px solid #193e2d;
+    box-shadow: 3px 3px 3px #8e8e8e;
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+    font-family: Arial;
+    font-weight: 700;
+    font-size: 10pt;
+    margin-top: 13px;
+    margin-left: 104px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#footer {
+    background-color: cornsilk;
+    width: 970px;
+    height: 68px;
+    margin: auto 0px auto 0px;
+    padding: 1px 0px 0px 0px;
+    color: rosybrown;
+    font-family: Arial;
+    font-size: 11pt;
+    text-align: center;
+    line-height: 12pt;
+    display: inline-block;
+}
+
+#footer p {
+    margin-bottom: -10px;
+}
+
+#footer a {
+    line-height: 12px;
+    color: rosybrown;
+
+}
+
+#footer img {
+    width: 18px;
+    height: 18px;
+    color: rosybrown;
+}
